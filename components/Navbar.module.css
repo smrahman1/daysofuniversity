@@ -1,0 +1,20 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 3rem;
+}
+
+.links {
+  /* margin: auto; */
+  background-color: #8ecae6;
+  border: none;
+}
+
+.links:hover {
+  transition: all 0.3s ease-in-out;
+  background-color: #219ebc;
+}
+
+.navButtons {
+  
+}
